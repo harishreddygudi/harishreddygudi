@@ -8,5 +8,3 @@ Most e-commerce founders treat a slow store as a cost of doing business. I decou
 I let the business problem dictate the architecture, not the trend.
 
 ► [Read my full Shopify architecture thesis at harish.xyz](https://harish.xyz/shopify)
-
-► [Contact for a 90-Second Storefront Audit](mailto:harishwebsitedev@gmail.com)
